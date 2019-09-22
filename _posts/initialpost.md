@@ -1,8 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/ 
+layout: post
+title:  "Initial Post" 
+date:   2016-10-02 17:00:00
+category: thoughts
+author: Jason Loan 
 ---
+
 # Some Context
 
 *You might find this background interesting, and even necessarily, but you might also not and I'm cool with that. This is sort of thinking/making notes out loud. FEEL FREE TO SKIP TO THE OTHER STUFF* 
@@ -14,7 +17,7 @@ At the heart of my approach to teaching 107 is the tension between these two cou
 
 So a big question guiding the course -- a question emerging I think from this tension -- goes something like this:
 
-*What might it look like to write about literature in the 21st Century?*
+*What might it mean to write about literature in the 21st Century?*
 
 Taking an even bigger step back, this question/tension for me has roots in Rhetoric and Composition scholarship that attempt to understasnd and articulate "new models" for composing (i.e. [Yancey](https://www.nwp.org/cs/public/print/resource/2852)) and the development of Digital Humanities which is also a space through which "new models" of scholarly communication and inquiry in the humanities are being experimented with (i.e. [Sayers](http://maker.uvic.ca/creative/)).
 
@@ -38,6 +41,3 @@ The second half of the course will then dive a little deeper and extend this mak
 
 We release it by BREAKING it. Breaking the object of interpratation itself and/or breaking the artifact used to communicate the critical/interpretive insights.
 
-So mayve the course is better called somethig like:
-
-Making Things, Writing Things, Breaking Things

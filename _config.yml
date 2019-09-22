@@ -1,25 +1,28 @@
-# Permalinks
-permalink:           pretty
+# Build settings
+markdown:           kramdown
+permalink:          pretty
 
+
+# Dependencies
+markdown:           kramdown
+highlighter:        rouge
+gems:               [jekyll-paginate]
+
+# Permalinks
+permalink:          pretty
 
 # Setup
-title:               Writing About Literature
-tagline:             'Making/Writing Things in the 21st Century'
-description:         'An in-progress course site for Fall 2019.'
-url:                 'https://jloan.github.io/107v3/'
-baseurl:             '/107v3'
-paginate:            5
+title:              "Making Things/Writing Things"
+tagline:
+description:        "E107|Pierce College|SP19"
+host:               127.0.0.1
+url:                ""
+baseurl:            "/e107v2"
+email:              jloan@pierce.ctc.edu
 
 
-# About/contact
-author:
-  name:              Jason Loan
-  url:               https://twitter.com/loanage
-  email:             jloan@pierce.ctc.edu
+paginate:           5
+layout:             blog-post
 
 # Custom vars
-version:             1.0.0
-
-# This will require each of these plugins automatically.
-plugins:
-  - jekyll-paginate
+version:            2.0.0
