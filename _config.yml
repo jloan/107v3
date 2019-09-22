@@ -2,14 +2,14 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-
+relative_permalinks: true
 
 # Setup
 title:               Writing About Literature
 tagline:             'Making/Writing Things in the 21st Century'
 description:         'An in-progress course site for Fall 2019.'
-url:                 ''
-baseurl:             '/107v3'
+url:                 https://jloan.github.io/107v3/
+baseurl:             ''
 paginate:            5
 
 
