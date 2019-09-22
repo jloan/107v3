@@ -6,8 +6,8 @@ permalink:           pretty
 title:               Writing About Literature
 tagline:             'Making/Writing Things in the 21st Century'
 description:         'An in-progress course site for Fall 2019.'
-url:                 "https://jloan.github.io/107v3/"
-baseurl:             ""
+url:                 'https://jloan.github.io/107v3/'
+baseurl:             ''
 paginate:            5
 
 
